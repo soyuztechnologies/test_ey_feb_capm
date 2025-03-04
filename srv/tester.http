@@ -65,7 +65,7 @@ http://localhost:4004/odata/v4/CatalogService/EmployeeSet/$count
 ###Get All the Purchase orders
 http://localhost:4004/odata/v4/CatalogService/POs
 
-###Get single order
+###Get single order - test
 http://localhost:4004/odata/v4/CatalogService/POs/74867AD200E41EDBA5D8B0C98DC2A052?$expand=Items
 
 ###Get CDS data for product
